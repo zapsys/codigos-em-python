@@ -12,6 +12,6 @@ a = ['','']
 while (a[0] != cpf or a[1] != senha):
     os.system('clear')                  # Limpa o terminal
     a[0] = input('Digite seu CPF: ')    # Solicita o CPF
-    a[1] = input('Senha: ')        # Solicita a senha
+    a[1] = input('Senha: ')             # Solicita a senha
 else:
     print('Seja bem vindo!')            # Se as condições foram satisfeitas
