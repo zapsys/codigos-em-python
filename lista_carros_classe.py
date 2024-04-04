@@ -15,7 +15,7 @@ while i < 4:
     marca = input('Informe a marca do carro: ')
     modelo = input('Informe o modelo do carro: ')
     cor = input('Informe a cor do carro: ')
-    ano = input('Informe o ano do carro: ')
+    ano = int(input('Informe o ano do carro: '))
     carro = Carro(marca, modelo, cor, ano)
     print()
     print('---------')
