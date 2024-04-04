@@ -30,6 +30,8 @@ ou
 ```
 $ python3 nome_do_script.py
 ```
+ou execute através de sua IDE de preferência.
+
 ## Dúvidas ou sugestões
 Caso tenha alguma dúvida ou sugestão sinta-se a vontade para nos contactar e contribuir.
 
