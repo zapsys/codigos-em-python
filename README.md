@@ -1,6 +1,5 @@
 # Códigos em Python
-Utilização da linguagem de programação Python na resolução de algoritmos, além de
-exemplos de definições de funções, classes, etc.
+Utilização da linguagem de programação Python na resolução de algoritmos, com exemplos de uso de comandos básicos, estruturas de repetição, definições de funções, classes, etc.
 
 ## Requisitos para execução:
 
@@ -13,6 +12,10 @@ exemplos de definições de funções, classes, etc.
 No terminal clone o projeto:
 ```
 $ git clone https://github.com/zapsys/codigos-em-python.git
+```
+Ou baixe o zip do projeto e descompacte-o:
+```
+https://github.com/zapsys/codigos-em-python/archive/refs/heads/main.zip
 ```
 Entre na pasta do projeto:
 ```
