@@ -9,6 +9,6 @@ soma = 1  # Variável que armazena a soma do termo atual + anterior
 while cont < 10:
     n_anter = n_atual
     n_atual = soma
-    cont += 1  # Incrementa o contador a cada repetição
     soma = n_atual + n_anter
+    cont += 1  # Incrementa o contador a cada repetição
     print(n_anter)
