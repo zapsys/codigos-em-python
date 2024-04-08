@@ -2,7 +2,7 @@
 texto = input('Informe uma palavra ou texto: ')
 
 # O método split() remove o delimitador definido, no caso o espaço ''
-# O método join retorna um novo texto é 'juntado' (.join) com o restante da string
+# O método join retorna um novo texto que é 'juntado' (.join) com o restante da string
 
 n_texto = ''.join(texto.split())
 count = 0
