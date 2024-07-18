@@ -17,4 +17,9 @@ aniversario = date(hoje.year, nascimento.month, nascimento.day)
 # Variável dias_aniver
 dias_aniver = (aniversario - hoje).days
 
-print(f'{nome}!!! Faltam {dias_aniver} dias para o seu aniversário.')
+if (dias_aniver < 0):
+    print(f'{nome}, seu aniversário foi a {-dias_aniver} atrás!')
+elif (dias_aniver == 0):
+    print(f'{nome}, hoje é o seu dia! Feliz aniversário!!!')
+else:
+    print(f'{nome}! Faltam {dias_aniver} dias para o seu aniversário!')
