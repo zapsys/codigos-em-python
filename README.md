@@ -42,11 +42,11 @@ $ python -m venv env
 ```
 *env* é um nome comum escolhido para o ambiente, mas você pode escolher um outro caso deseje, mas o mesmo não pode conter espaços ou acentos.
 
-Ative o ambiente:
+**Ative o ambiente:**
 
-No terminal do Linux/MacOS use `source env/bin/activate`.
+- No terminal do Linux/MacOS use `source env/bin/activate`.
 
-No Windows (PowerShell de preferência) use `source env\Scripts\Activate.ps1`.
+- No Windows (PowerShell de preferência) use `source env\Scripts\Activate.ps1`.
 
 Após ativar o ambiente instale as bibliotecas necessárias usando o comando [pip](https://pip.pypa.io/en/stable/installation/). O mesmo deve estar instalado globalmente no sistema.
 
