@@ -46,7 +46,7 @@ $ python -m venv env
 
 - No terminal do Linux/MacOS use `source env/bin/activate`.
 
-- No Windows (PowerShell de preferência) use `source env\Scripts\Activate.ps1`.
+- No Windows use `source env\Scripts\Activate.bat` se estiver no *CMD*, no *Powershell* use `source env\Scripts\Activate.ps1`.
 
 Após ativar o ambiente instale as bibliotecas necessárias usando o comando [pip](https://pip.pypa.io/en/stable/installation/). O mesmo deve estar instalado globalmente no sistema.
 
